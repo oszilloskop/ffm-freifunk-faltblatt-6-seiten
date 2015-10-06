@@ -11,7 +11,7 @@ Anschnitt bis zu 2mm links/rechts/oben/unten vorbereitet
 
 ![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10319322/fc054e4e-6c6d-11e5-9439-492a63543a06.png)
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10319332/01ff33b4-6c6e-11e5-953b-ebbb948c1a5e.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10321642/1c286394-6c7a-11e5-91e5-1a253ab4c076.png)
 
 # Motivation
 Das Design wurde neu Aufgesetzt.
