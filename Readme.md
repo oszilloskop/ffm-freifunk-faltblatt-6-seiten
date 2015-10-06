@@ -14,8 +14,7 @@ Anschnitt bis zu 2mm links/rechts/oben/unten vorbereitet
 ![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10321642/1c286394-6c7a-11e5-91e5-1a253ab4c076.png)
 
 # Motivation
-Das Design wurde neu Aufgesetzt.
-Texte und Grafiken wurde derart überarbeitet, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. Lust auf Freifunk bekommen.  
+Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch Lust auf Freifunk bekommen.  
 # Anpassung an eure Community per PHP-Skript
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
