@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.0">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="853.228346456693" PAGEHEIGHT="283.464566929134" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="1.10012598425197" UNITS="4" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="1" DPSo="1" DPSFo="1" DPuse="1" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="Display" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="Display" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="1" ALAYER="0" LANGUAGE="de" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="300000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="1" currentProfile="PDF/X-4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Blue" RGB="#0000ff"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000"/>
+        <COLOR NAME="Freifunk Honiggelb" RGB="#ffb400"/>
+        <COLOR NAME="Freifunk Magenta" RGB="#dc0067"/>
+        <COLOR NAME="FromSVG#000000" RGB="#000000"/>
+        <COLOR NAME="FromSVG#14744f" RGB="#14744f"/>
+        <COLOR NAME="FromSVG#198e60" RGB="#198e60"/>
+        <COLOR NAME="FromSVG#1a181d" RGB="#1a181d"/>
+        <COLOR NAME="FromSVG#1f1a17" RGB="#1f1a17"/>
+        <COLOR NAME="FromSVG#2b8a61" RGB="#2b8a61"/>
+        <COLOR NAME="FromSVG#60b68f" RGB="#60b68f"/>
+        <COLOR NAME="FromSVG#7a7a7a" RGB="#7a7a7a"/>
+        <COLOR NAME="FromSVG#808080" RGB="#808080"/>
+        <COLOR NAME="FromSVG#92ccb2" RGB="#92ccb2"/>
+        <COLOR NAME="FromSVG#a6a6a6" RGB="#a6a6a6"/>
+        <COLOR NAME="FromSVG#b2dbc9" RGB="#b2dbc9"/>
+        <COLOR NAME="FromSVG#d93969" RGB="#d93969"/>
+        <COLOR NAME="FromSVG#db0669" RGB="#db0669"/>
+        <COLOR NAME="FromSVG#dd0066" RGB="#dd0066"/>
+        <COLOR NAME="FromSVG#de2c68" RGB="#de2c68"/>
+        <COLOR NAME="FromSVG#f7bb42" RGB="#f7bb42"/>
+        <COLOR NAME="FromSVG#ffcc00" RGB="#ffcc00"/>
+        <COLOR NAME="FromSVG#ffcc33" RGB="#ffcc33"/>
+        <COLOR NAME="FromSVG#ffffff" RGB="#ffffff"/>
+        <COLOR NAME="Green" RGB="#00ff00"/>
+        <COLOR NAME="Himmelblau" RGB="#c2e3ff"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000"/>
+        <COLOR NAME="Red" RGB="#ff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" MinWordTrack="0.8" MinGlyphShrink="0.985" MaxGlyphExtend="1.015" FONT="Lato Regular" SCALEV="100" BASEO="0"/>
+        <STYLE NAME="mini Absatz" PARENT="Default Paragraph Style" ALIGN="1" LINESPMode="0" LINESP="9"/>
+        <STYLE NAME="mini absatz linksbündig" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="8.5"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Lato Regular" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="margenta-Zeichenstil" CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="10" FCOLOR="Freifunk Magenta"/>
+        <CHARSTYLE CNAME="headline-Zeichenstil" CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="15" BASEO="0"/>
+        <CHARSTYLE CNAME="klein margenta-Zeichenstil" CPARENT="Default Character Style" FONT="Lato Regular" FONTSIZE="8" FCOLOR="Freifunk Magenta" BASEO="0"/>
+        <CHARSTYLE CNAME="headline-klein-Zeichenstil" CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="8.5" FCOLOR="Black"/>
+        <CHARSTYLE CNAME="Titel_ersteSeite" CPARENT="Default Character Style" FONT="AlternateGothic2 BT Regular" FONTSIZE="60" KERN="-4"/>
+        <CHARSTYLE CNAME="linie" FONTSIZE="9" FCOLOR="FromSVG#2b8a61" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="headline-Zeichenstil2" CPARENT="headline-Zeichenstil" BASEO="40"/>
+        <CHARSTYLE CNAME="klein bold margenta-Zeichenstil wenigerzeilenabstand" CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="8" FCOLOR="Freifunk Magenta" BASEO="0"/>
+        <CHARSTYLE CNAME="Neuer Stil" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="klein für weissen Hintergrund" CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="7" FCOLOR="Black"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <TableStyle NAME="Tabelle Weiss" FillColor="White"/>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <MultiLine Name="unsichtbare Linie">
+            <SubLine Color="White" Shade="100" Dash="1" LineEnd="0" LineJoin="0" Width="0" Shortcut=""/>
+        </MultiLine>
+        <LAYERS NUMMER="19" LEVEL="0" NAME="Himmel Frontseite" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="5" LEVEL="1" NAME="Balken oben/unten" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="15" LEVEL="2" NAME="Infografik: Freifunk-Router sind sicher" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="1" LEVEL="3" NAME="Infografik: Selber mitmachen in drei Schritten" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="0" LEVEL="4" NAME="Seitentexte" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="18" LEVEL="5" NAME="Community ffm " SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="20" LEVEL="7" NAME="Fußzeilentext" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="4" LEVEL="8" NAME="Frontseite" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="12" LEVEL="9" NAME="Pfalzstriche" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="6" LEVEL="10" NAME="Flyer Version" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="0.5" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="21" LEVEL="6" NAME="Community Template" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0012598425197" markOffset="0" BleedTop="2.83464566929134" BleedLeft="2.83464566929134" BleedRight="2.83464566929134" BleedBottom="2.83464566929134" printer="Canon-MX720-series" filename="" separationName="Alle" printerCommand="">
+            <Separation Name="Cyan"/>
+            <Separation Name="Magenta"/>
+            <Separation Name="Gelb"/>
+            <Separation Name="Schwarz"/>
+        </Printer>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="2" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1-2" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="0" UseProfiles="1" UseProfiles2="1" Binding="0" PicRes="600" Resolution="600" Version="15" Intent="1" Intent2="1" SolidP="Display" ImageP="Display" PrintP="Generic CMYK Profile" InfoString="flyer_6_seiten_modern.sla" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="0" docInfoMarks="1" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="AlternateGothic2 BT Regular"/>
+            <Fonts Name="Lato Bold"/>
+            <Fonts Name="Lato Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="3" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="833.385826771654" PAGEHEIGHT="283.464566929134" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="810.708661417323" PAGEHEIGHT="269.291338582677" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="329.292283464567" PAGEWIDTH="810.708661417323" PAGEHEIGHT="269.291338582677" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="638.583307086614" PAGEWIDTH="833.385826771654" PAGEHEIGHT="283.464566929134" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="962.047559055118" PAGEWIDTH="907.086614173228" PAGEHEIGHT="340.157480314961" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="3" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="1534226103" XPOS="0" YPOS="0" OwnPage="-1" ItemID="858541353" PTYPE="4" WIDTH="53.9999999999999" HEIGHT="7.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L54 0 L54 7.5 L0 7.5 L0 0 Z" copath="M0 0 L54 0 L54 7.5 L0 7.5 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="53.9999999999999" gHeight="7.5" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" CH="Freifunk Router"/>
+            <trail PARENT="Default Paragraph Style"/>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="458515007" XPOS="0" YPOS="0" OwnPage="-1" ItemID="858647849" PTYPE="4" WIDTH="94.6770791709629" HEIGHT="11.8530562741767" FRTYPE="0" CLIPEDIT="0" ROT="-350" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L94.6771 0 L94.6771 11.8531 L0 11.8531 L0 0 Z" copath="M0 0 L94.6771 0 L94.6771 11.8531 L0 11.8531 L0 0 Z" isInline="1" gXpos="2.05826162179437" gYpos="0" gWidth="95.2969832219093" gHeight="28.1134839805646" PSTYLE="Default Paragraph Style" ALIGN="1" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein bold margenta-Zeichenstil wenigerzeilenabstand" CH="WLAN wird für jeden"/>
+            <para PARENT="Default Paragraph Style" ALIGN="1"/>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="1584308507" XPOS="0" YPOS="0" OwnPage="-1" ItemID="856628521" PTYPE="4" WIDTH="249.448818897638" HEIGHT="41.5934645669293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Kopie von TWie1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L249.449 0 L249.449 41.5935 L0 41.5935 L0 0 Z" copath="M0 0 L249.449 0 L249.449 41.5935 L0 41.5935 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="249.448818897638" gHeight="41.5934645669293" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Default Character Style" CH="1.Freifunk Router besorgen"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="klein margenta-Zeichenstil" CH="(nur bestimmte Modelle)"/>
+            <trail PARENT="Default Paragraph Style"/>
+        </FRAMEOBJECT>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="29.3307086614173" OwnPage="0" ItemID="857040681" PTYPE="2" WIDTH="549.92125984252" HEIGHT="262.796535433071" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Wolken" LOCALSCX="0.308251827265987" LOCALSCY="0.321267158231138" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="wolken.png" PRFILE="Display" IRENDER="0" EMBEDDED="0" TransValue="0.2" path="M0 0 L549.921 0 L549.921 262.797 L0 262.797 L0 0 Z" copath="M0 0 L549.921 0 L549.921 262.797 L0 262.797 L0 0 Z" ImageRes="0" gXpos="369.291968503937" gYpos="29.3307086614173" gWidth="0" gHeight="0" LAYER="19" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="91.4966929133852" YPOS="275.828031496063" OwnPage="0" ItemID="856560937" PTYPE="6" WIDTH="827.716535433071" HEIGHT="21.8381102362205" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Freifunk Magenta" PLINEART="1" ANNAME="RandUNTEN_S1" path="M0 0 L827.717 0 L827.717 21.8381 L0 21.8381 L0 0 Z" copath="M0 0 L827.718 0 L827.718 21.8381 L0 21.8381 L0 0 Z" gXpos="91.4966929133852" gYpos="593.622992125983" gWidth="0" gHeight="0" GRExtM="3" GRTYPM="1" GRSTARTXM="0" GRSTARTYM="0" GRENDXM="827.716535433071" GRENDYM="0" GRFOCALXM="0" GRFOCALYM="0" GRSCALEM="1" GRSKEWM="0" LAYER="5">
+            <M_CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="1"/>
+            <M_CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="91.4966929133852" YPOS="11.4973228346457" OwnPage="0" ItemID="858508585" PTYPE="6" WIDTH="827.716535433071" HEIGHT="21.8381102362205" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Freifunk Honiggelb" PLINEART="1" ANNAME="RandOBEN_S1" path="M0 0 L827.717 0 L827.717 21.8381 L0 21.8381 L0 0 Z" copath="M0 0 L827.718 0 L827.718 21.8381 L0 21.8381 L0 0 Z" gXpos="91.4966929133852" gYpos="11.4973228346457" gWidth="0" gHeight="0" LAYER="5"/>
+        <PAGEOBJECT XPOS="91.4966929133852" YPOS="585.11905511811" OwnPage="1" ItemID="857899817" PTYPE="6" WIDTH="827.716535433071" HEIGHT="21.8381102362205" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Freifunk Magenta" PLINEART="1" ANNAME="RandUNTEN_S2" path="M0 0 L827.717 0 L827.717 21.8381 L0 21.8381 L0 0 Z" copath="M0 0 L827.718 0 L827.718 21.8381 L0 21.8381 L0 0 Z" gXpos="91.4966929133852" gYpos="261.654803149606" gWidth="0" gHeight="0" LAYER="5"/>
+        <PAGEOBJECT XPOS="91.4966929133852" YPOS="320.788346456693" OwnPage="1" ItemID="858243881" PTYPE="6" WIDTH="827.716535433071" HEIGHT="21.8381102362205" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Freifunk Honiggelb" PLINEART="1" ANNAME="RandOBEN_S2" path="M0 0 L827.717 0 L827.717 21.8381 L0 21.8381 L0 0 Z" copath="M0 0 L827.718 0 L827.718 21.8381 L0 21.8381 L0 0 Z" gXpos="91.4966929133852" gYpos="-320.470866141732" gWidth="0" gHeight="0" LAYER="5"/>
+        <PAGEOBJECT XPOS="683.99676587304" YPOS="410.788346456693" OwnPage="1" ItemID="858523433" PTYPE="2" WIDTH="218.492053024598" HEIGHT="121.72" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="Schaudiagramm" LOCALSCX="0.107147368421053" LOCALSCY="0.107147368421053" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="freifunk-router_betreiber.png" PRFILE="Display" EMBEDDED="0" path="M0 0 L218.492 0 L218.492 121.72 L0 121.72 L0 0 Z" copath="M0 0 L218.492 0 L218.492 121.72 L0 121.72 L0 0 Z" ImageRes="0" gXpos="34.0748761092607" gYpos="0" gWidth="284.465196850386" gHeight="121.72" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="864.153379201715" YPOS="476.937952755906" OwnPage="1" ItemID="856976169" PTYPE="4" WIDTH="37.94783867227" HEIGHT="17.5276" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" PLINEART="1" ANNAME="FreifunkServer" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="7.5" LINESPMode="0" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="2.83464566929134" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L37.9478 0 L37.9478 17.5276 L0 17.5276 L0 0 Z" copath="M0 0 L37.9478 0 L37.9478 17.5276 L0 17.5276 L0 0 Z" gXpos="214.231489437935" gYpos="66.149606299213" gWidth="284.465196850386" gHeight="121.72" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Freifunk-"/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Server"/>
+            <trail PARENT="mini Absatz" ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="736.959922466621" YPOS="499.806012884753" OwnPage="1" ItemID="857593641" PTYPE="4" WIDTH="32.5511028445529" HEIGHT="21.442" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="WLANGäste" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="7.5" LINESPMode="0" ISIZE="7" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L32.5511 0 L32.5511 21.442 L0 21.442 L0 0 Z" copath="M0 0 L32.5511 0 L32.5511 21.442 L0 21.442 L0 0 Z" gXpos="87.038032702842" gYpos="89.01766642806" gWidth="284.465196850386" gHeight="121.72" ALIGN="0" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="WLAN"/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Gäste"/>
+            <trail PARENT="mini Absatz" LINESPMode="0" LINESP="7.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="646.92188976378" YPOS="501.292283464567" OwnPage="1" ItemID="858533161" PTYPE="4" WIDTH="44.7884316047071" HEIGHT="18.4111" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="FreifunkRouter02" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="7.5" LINESPMode="0" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L44.7884 0 L44.7884 18.4111 L0 18.4111 L0 0 Z" copath="M0 0 L44.7884 0 L44.7884 18.4111 L0 18.4111 L0 0 Z" gXpos="-3" gYpos="90.503937007874" gWidth="284.465196850386" gHeight="121.72" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Freifunk"/>
+            <ITEXT FONTSIZE="7" CH="-"/>
+            <para PARENT="Default Paragraph Style" ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Router"/>
+            <trail PARENT="mini Absatz" LINESPMode="0" LINESP="7.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="775.666666666667" YPOS="440.489133858268" OwnPage="1" ItemID="857622825" PTYPE="4" WIDTH="76.8888888888889" HEIGHT="11.7185" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="Internet" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTFILL="Warm Black" TXTFILLSH="100" IFONT="Lato Regular" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L76.8889 0 L76.8889 11.7185 L0 11.7185 L0 0 Z" copath="M0 0 L76.8886 0 L76.8886 11.7185 L0 11.7185 L0 0 Z" gXpos="125.744776902888" gYpos="29.700787401575" gWidth="284.465196850386" gHeight="121.72" ALIGN="1" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Bold" FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Internet"/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="775.068269474106" YPOS="455.827716535433" OwnPage="1" ItemID="856570665" PTYPE="4" WIDTH="76.4632089026856" HEIGHT="12.38" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="VPN_Tunnel" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTFILL="Freifunk Honiggelb" IFONT="Lato Bold" ISIZE="9.5" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L76.4632 0 L76.4632 12.38 L0 12.38 L0 0 Z" copath="M0 0 L76.4632 0 L76.4632 12.38 L0 12.38 L0 0 Z" gXpos="125.146379710327" gYpos="45.03937007874" gWidth="284.465196850386" gHeight="121.72" ALIGN="1" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Bold" FONTSIZE="9" FCOLOR="Warm Black" FSHADE="100" CH="VPN-Tunnel"/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="665.297570181922" YPOS="426.023435934143" OwnPage="1" ItemID="857131817" PTYPE="4" WIDTH="35.6221317765775" HEIGHT="18.7246" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="DeineGeräte" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="7.5" LINESPMode="0" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L35.6221 0 L35.6221 18.7246 L0 18.7246 L0 0 Z" copath="M0 0 L35.6221 0 L35.6221 18.7246 L0 18.7246 L0 0 Z" gXpos="15.375680418142" gYpos="15.23508947745" gWidth="284.465196850386" gHeight="121.72" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Deine"/>
+            <para PARENT="Default Paragraph Style" ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="7" CH="Geräte"/>
+            <trail PARENT="mini Absatz" LINESPMode="0" LINESP="7.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="695.499843109097" YPOS="465.484294917681" OwnPage="1" ItemID="857056041" PTYPE="4" WIDTH="62.1319660326028" HEIGHT="21.9304" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="DeinInternetanschluss" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="7.5" LINESPMode="0" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="1.41732283464567" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.132 0 L62.132 21.9304 L0 21.9304 L0 0 Z" copath="M0 0 L62.132 0 L62.132 21.9304 L0 21.9304 L0 0 Z" gXpos="45.577953345318" gYpos="54.695948460988" gWidth="284.465196850386" gHeight="121.72" ALIGN="0" LAYER="15" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein für weissen Hintergrund" FONTSIZE="7" CH="Dein Internet"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="7" CH="-anschluss"/>
+            <trail PARENT="mini Absatz" ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="377.79590551181" YPOS="393.071811023622" OwnPage="1" ItemID="857052969" PTYPE="2" WIDTH="253.476821760917" HEIGHT="191.817077865267" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="SelberMitmachen" LOCALSCX="0.22876254180602" LOCALSCY="0.22876254180602" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="mitmachen_in_drei_schritten.png" PRFILE="Display" EMBEDDED="0" path="M0 0 L253.477 0 L253.477 191.817 L0 191.817 L0 0 Z" copath="M0 0 L253.476 0 L253.476 191.817 L0 191.817 L0 0 Z" ImageRes="0" gXpos="-13.8040944881663" gYpos="-8.55905511811045" gWidth="275.042741939499" gHeight="213.96062992126" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="600.936377952757" YPOS="556.063937007874" OwnPage="1" ItemID="885190441" PTYPE="2" WIDTH="12.638149606299" HEIGHT="13.7244488188975" FRTYPE="0" CLIPEDIT="1" ROT="-205" PWIDTH="1" PLINEART="1" ANNAME="Funkwellen3" LOCALSCX="0.0991625418060201" LOCALSCY="0.0991625418060201" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="wlan_honiggelb.png" PRFILE="Display" IRENDER="0" EMBEDDED="0" path="M0 0 L12.6381 0 L12.6381 13.7244 L0 13.7244 L0 0 Z" copath="M0 0 L-12.1434 -3.24996 L-8.37879 -16.4755 L3.76458 -13.2255 L0 0 Z" ImageRes="0" gXpos="209.33637795278" gYpos="154.433070866142" gWidth="275.042741939499" gHeight="213.96062992126" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="600.936377952757" YPOS="527.741597745462" OwnPage="1" ItemID="884439849" PTYPE="2" WIDTH="11.773748467818" HEIGHT="13.7244488188976" FRTYPE="0" CLIPEDIT="1" ROT="-205" PWIDTH="1" PLINEART="1" ANNAME="Funkwellen2" LOCALSCX="0.0975732441471572" LOCALSCY="0.0975732441471572" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="wlan_honiggelb.png" PRFILE="Display" IRENDER="0" EMBEDDED="0" path="M0 0 L11.7737 0 L11.7737 13.7244 L0 13.7244 L0 0 Z" copath="M0 0 L-10.0529 6.26545 L-16.786 -5.50022 L-6.73309 -11.7657 L0 0 Z" ImageRes="0" gXpos="209.33637795278" gYpos="126.11073160373" gWidth="275.042741939499" gHeight="213.96062992126" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="502.52031496063" YPOS="521.882834645669" OwnPage="1" ItemID="887796009" PTYPE="2" WIDTH="19.8425196850394" HEIGHT="21.5480631531342" FRTYPE="0" CLIPEDIT="1" ROT="-25" PWIDTH="1" PLINEART="1" ANNAME="Funkwellen1" LOCALSCX="0.158424080267559" LOCALSCY="0.158424080267559" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="wlan_honiggelb.png" PRFILE="Display" IRENDER="0" EMBEDDED="0" path="M0 0 L19.8425 0 L19.8425 21.5481 L0 21.5481 L0 0 Z" copath="M0 0 L4.60302 -18.7287 L25.9265 -14.027 L21.3235 4.70174 L0 0 Z" ImageRes="0" gXpos="110.920314960538" gYpos="120.251968503937" gWidth="275.042741939499" gHeight="213.96062992126" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="484.945511811024" YPOS="573.588582677165" OwnPage="1" ItemID="884668713" PTYPE="4" WIDTH="58.781496062991" HEIGHT="10.8677952755914" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="FreifunkRouter01" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L58.7815 0 L58.7815 10.8678 L0 10.8678 L0 0 Z" copath="M0 0 L58.7815 0 L58.7815 10.8678 L0 10.8678 L0 0 Z" gXpos="93.3455118109311" gYpos="171.957716535433" gWidth="275.042741939499" gHeight="213.96062992126" PSTYLE="mini absatz linksbündig" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-klein-Zeichenstil" FONTSIZE="7.2" CH="Freifunk-Router"/>
+            <trail PARENT="mini absatz linksbündig" ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="389.402204724409" YPOS="573.071811023622" OwnPage="1" ItemID="885583657" PTYPE="4" WIDTH="71.265748031495" HEIGHT="10.8677952755914" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="DeinInternetrouter" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L71.2657 0 L71.2657 10.8678 L0 10.8678 L0 0 Z" copath="M0 0 L71.2657 0 L71.2657 10.8678 L0 10.8678 L0 0 Z" gXpos="-2.19779527556769" gYpos="171.44094488189" gWidth="275.042741939499" gHeight="213.96062992126" PSTYLE="mini absatz linksbündig" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-klein-Zeichenstil" FONT="Lato Bold" FONTSIZE="7.2" CH="Dein Internetrouter"/>
+            <trail PARENT="mini absatz linksbündig" ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="522" YPOS="468.191181102362" OwnPage="1" ItemID="884969257" PTYPE="4" WIDTH="88.8199576014525" HEIGHT="9.75094488188938" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="Neuer_FreifunkRouter" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L88.82 0 L88.82 9.75094 L0 9.75094 L0 0 Z" copath="M0 0 L88.82 0 L88.82 9.75094 L0 9.75094 L0 0 Z" gXpos="130.399999999906" gYpos="66.5603149606289" gWidth="275.042741939499" gHeight="213.96062992126" PSTYLE="mini absatz linksbündig" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-klein-Zeichenstil" FONTSIZE="7.2" CH="Ein neuer Freifunk-Router"/>
+            <trail PARENT="mini absatz linksbündig" ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="406.709291338583" YPOS="468.189921259843" OwnPage="1" ItemID="887955241" PTYPE="4" WIDTH="76.665354330709" HEIGHT="10.746062992126" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="WR841N" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTFILL="Black" ISIZE="6" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L76.6654 0 L76.6654 10.7461 L0 10.7461 L0 0 Z" copath="M0 0 L76.6654 0 L76.6654 10.7461 L0 10.7461 L0 0 Z" gXpos="15.1092913386058" gYpos="66.5590551181096" gWidth="275.042741939499" gHeight="213.96062992126" PSTYLE="mini Absatz" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="klein margenta-Zeichenstil" FONT="Lato Bold" FONTSIZE="7.2" FCOLOR="Black" CH="TP-Link TL-WR841N"/>
+            <trail PARENT="mini Absatz"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="641.417952755906" YPOS="329.292283464567" OwnPage="1" ItemID="886598953" PTYPE="4" WIDTH="269.291338582677" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="FreifunkRouterSicherheit" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" OpticalMargins="14" LINESP="12.5" LINESPMode="0" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" copath="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" gXpos="641.417952755906" gYpos="329.292283464567" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil2" FONT="Lato Bold" FONTSIZE="14.3" CH="Freifunk-Router sorgen für Sicherheit"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Default Character Style" FONTSIZE="10.5" CH="Durch Freifunk surfen deine WLAN-Gäste mit der IP-Adresse eines Freifunk-Servers und "/>
+            <ITEXT CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="10.5" FEATURES="inherit underline" CH="nicht"/>
+            <ITEXT CPARENT="Default Character Style" FONTSIZE="10.5" CH=" mit der deines eigenen Internetanschlusses. Ein Rückschluss auf deinen Internetanschluss ist daher "/>
+            <ITEXT CPARENT="Default Character Style" FONT="Lato Bold" FONTSIZE="10.5" FEATURES="inherit underline" CH="nicht"/>
+            <ITEXT CPARENT="Default Character Style" FONTSIZE="10.5" CH=" möglich."/>
+            <para/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationHigher="1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT FONTSIZE="10.5" KERN="0" CH=" "/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Technisch gesehen verbinden sich deine Gäste zu-nächst über einen verschlüsselten VPN-Tunnel mit einem Freifunk-Server. Dieser fungiert als Gateway und erst über ihn gelangen die Gäste in das Internet."/>
+            <trail PARENT="Default Paragraph Style" ALIGN="3" LINESPMode="0" LINESP="12.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="372.126614173228" YPOS="329.292283464567" OwnPage="1" ItemID="884956457" PTYPE="4" WIDTH="269.291338582677" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="SelberMitmachenInDreiSchritten" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESPMode="1" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" copath="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" gXpos="372.126614173228" gYpos="329.292283464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil" FONTSIZE="14.3" CH="Selber mitmachen in drei Schritten"/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+            <ITEXT CPARENT="headline-klein-Zeichenstil" FONTSIZE="8.6" CH="1. Geeigneten Router besorgen   2. Freifunk-Software aufspielen"/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+            <ITEXT CPARENT="klein margenta-Zeichenstil" FONTSIZE="7.6" FCOLOR="Black" FSHADE="100" CH="      (Einsteigermodell ca. 19€)                         (Anleitung auf unsere Webseite)"/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="headline-klein-Zeichenstil" FONTSIZE="8.6" CH="3. Freifunk-Router mit dem Internet verbinden und aufstellen"/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+            <ITEXT FONTSIZE="7.6" CH="      (möglichst in Fensternähe)"/>
+            <para PARENT="mini Absatz" ALIGN="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="329.292283464567" OwnPage="1" ItemID="886754089" PTYPE="4" WIDTH="272.125984251969" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="FreiesNetzÜberallUndFürAlle" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="12.5" LINESPMode="0" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.126 0 L272.126 269.291 L0 269.291 L0 0 Z" copath="M0 0 L272.126 0 L272.126 269.291 L0 269.291 L0 0 Z" gXpos="100.00062992126" gYpos="329.292283464567" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil2" FONTSIZE="14.3" CH="Freies Netz überall und für alle"/>
+            <para PARENT="Default Paragraph Style" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" SCALEV="100" CH="Freifunk"/>
+            <ITEXT FONTSIZE="10.5" SCALEV="100" CH=" ist ein"/>
+            <ITEXT FONTSIZE="10.5" SCALEH="101" SCALEV="100" KERN="0" CH=" dezentrales und unabhängiges Bürger-netz mit Zugang zum Internet."/>
+            <ITEXT FONTSIZE="10.5" SCALEV="100" CH=" "/>
+            <ITEXT FONTSIZE="10.5" wordTrack="1.01" CH=" Freifunk bedeutet offene, uneingeschränkte und freie digitale Kommunikation. Jeder kann "/>
+            <ITEXT FONTSIZE="10.5" CH="sich kostenlos über WLAN verbinden, ohne Passwort und ohne Regis-trierungen."/>
+            <ITEXT FONTSIZE="10.5" SCALEH="101" SCALEV="100" KERN="1" CH=" Jeder darf "/>
+            <ITEXT FONTSIZE="10.5" SCALEV="100" CH="Freifunk nutzen, mitmachen und auch erwei­­tern"/>
+            <ITEXT FONTSIZE="10.5" wordTrack="1.01" CH="."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="3" Bullet="0" Numeration="0" OpticalMargins="14" wordTrack="1.01"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100" CH="So funktioniert Freifunk für Dich"/>
+            <ITEXT CH=":"/>
+            <para PARENT="Default Paragraph Style" LINESPMode="0" LINESP="12.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Finde einen Freifunk WLAN-Hotspot in deiner Nähe und verbinde einfach dein Handy bzw. deinen Laptop damit. Oder stelle einen eigenen Freifunk-Router auf. Dafür sind ein geeigneter WLAN-Router und eine Internetverbindung notwendig. Die Internetverbin-dung kann ein eigener Internetanschluss, oder sogar ein weiterer Freifunk-Router in WLAN-Reichweite sein. Mach mit und verbinde Freunde und Nachbarn."/>
+            <para PARENT="Default Paragraph Style" ALIGN="4" LINESPMode="0" LINESP="12.5"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="20.0012598425197" OwnPage="0" ItemID="885460777" PTYPE="4" WIDTH="269.291338582677" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="HäufigeFragen" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="12.5" LINESPMode="0" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" copath="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" gXpos="100.00062992126" gYpos="20.0012598425197" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil2" FONTSIZE="14.3" CH="Häufige Fragen"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Freifunk Magenta" FSHADE="100" CH="Ich kann mein Handy also einfach so verbinden?"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Ja. Da Freifunk ein offenens und nicht-kommerzielles Bürgernetz ist, ist die Nutzung für jeden kostenlos."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" FCOLOR="Freifunk Magenta" FSHADE="100" CH="Was kostet denn ein eigener Freifunk-Router?"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Ein Einsteiger-Router kostet ca. 19€."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Plus ein Netzwerkkabel (je nach Länge) 5-10€."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Für Strom fallen noch mal ca. 4€ pro Jahr an."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Freifunk Magenta" FSHADE="100" CH="Was passiert mit meinem DSL-Anschluss?"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Dein Freifunk-Router nutzt nur einen einstell­­baren Teil deiner Bandbreite. Du bestimmst selbst, wie viel Du deinen Gästen zur Verfügung stellen möchtest."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Freifunk Magenta" FSHADE="100" CH="Ist mein Heim-Netz vor Fremdzugriffen geschützt?"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Klares Ja! Deine Freifunk-WLAN-Gäste können sich konzeptionell "/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" FEATURES="inherit underlinewords" CH="nur"/>
+            <ITEXT FONTSIZE="10.5" CH=" mit dem Internet verbinden."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="12.5" OpticalMargins="14"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="638.583307086614" OwnPage="2" ItemID="887037225" PTYPE="4" WIDTH="833.385826771654" HEIGHT="283.464566929134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="DokumentenInformation" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L833.386 0 L833.386 283.465 L0 283.465 L0 0 Z" copath="M0 0 L833.386 0 L833.386 283.465 L0 283.465 L0 0 Z" gXpos="100.00062992126" gYpos="638.583307086614" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <para ALIGN="0"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="11" CH="Freifunk-Faltblatt-6-Seiten (10x10cm, Wickelfalz)"/>
+            <para ALIGN="0"/>
+            <ITEXT FONTSIZE="11" CH="(Basiert auf http://wiki.freifunk.net/FreifunkStylesFlyer#Pocketflyer_Freifunk_Kiel_6_Seiter_10x10cm"/>
+            <ITEXT CH=")"/>
+            <para ALIGN="0"/>
+            <para/>
+            <ITEXT FONT="Lato Bold" CH="Geschlossen"/>
+            <ITEXT CH=": 10 x 10 cm "/>
+            <para/>
+            <ITEXT FONT="Lato Bold" CH="Offen"/>
+            <ITEXT CH=": 29,7 x 10 cm, Unsymmetrie wegen Wickelfalz-Technik: siehe https://www.youtube.com/watch?v=zCbu-Dv9v1U"/>
+            <para/>
+            <ITEXT FONT="Lato Bold" FCOLOR="Black" FSHADE="100" CH="Anschnitt"/>
+            <ITEXT CH=": zusätzlich 2 mm links/recht und oben/unten"/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="Als Grafik oder EPS  exportiert -&gt; 29,7 x 10 cm - "/>
+            <ITEXT FCOLOR="Red" FSHADE="100" CH="Anschnitt wird "/>
+            <ITEXT FONT="Lato Bold" FEATURES="inherit underline" FCOLOR="Red" FSHADE="100" CH="nicht"/>
+            <ITEXT FCOLOR="Red" FSHADE="100" CH=" mit ausgedruckt."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="Als PDF exportiert"/>
+            <ITEXT CH=" -&gt; 30,4 x 10,4 cm - "/>
+            <ITEXT FCOLOR="Red" FSHADE="100" CH="Anschnitt wird "/>
+            <ITEXT FONT="Lato Bold" FEATURES="inherit underline" FCOLOR="Red" FSHADE="100" CH="mit"/>
+            <ITEXT FCOLOR="Red" FSHADE="100" CH=" ausgedruckt."/>
+            <ITEXT CH=" "/>
+            <para/>
+            <ITEXT CH="Daher bitte Schneidemarken und Anschnittmarken mit exportieren (im Exportmenü unter &quot;Pre-Press&quot;)"/>
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1145.33921259843" OwnPage="3" ItemID="886339369" PTYPE="4" WIDTH="907.086614173228" HEIGHT="168.204" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="2mmRandRückseite" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L907.087 0 L907.087 168.204 L0 168.204 L0 0 Z" copath="M0 0 L907.087 0 L907.087 168.204 L0 168.204 L0 0 Z" gXpos="-8.5039370078748" gYpos="140.771968503936" gWidth="907.086614173229" gHeight="337.32242519685" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para ALIGN="1"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para ALIGN="2"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <trail PARENT="mini Absatz"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="976.220787401576" OwnPage="3" ItemID="886569769" PTYPE="4" WIDTH="907.086614173228" HEIGHT="168.204" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="2mmRandFront" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L907.087 0 L907.087 168.204 L0 168.204 L0 0 Z" copath="M0 0 L907.087 0 L907.087 168.204 L0 168.204 L0 0 Z" gXpos="-8.5039370078748" gYpos="-28.3464566929135" gWidth="907.086614173229" gHeight="337.32242519685" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para ALIGN="1"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para ALIGN="0"/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <para ALIGN="2"/>
+            <para/>
+            <para ALIGN="0"/>
+            <para ALIGN="2"/>
+            <para/>
+            <ITEXT FONT="Lato Regular" CH="+2mm"/>
+            <trail PARENT="mini Absatz"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="326.772283464567" YPOS="1098.11055118111" OwnPage="3" ItemID="887045417" PTYPE="4" WIDTH="530.99811023622" HEIGHT="91.9366929133854" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="PDFExport" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" TransValue="0.9" path="M0 0 L530.998 0 L530.998 91.9367 L0 91.9367 L0 0 Z" copath="M0 0 L530.998 0 L530.998 91.9367 L0 91.9367 L0 0 Z" gXpos="326.772283464567" gYpos="1098.11055118111" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Bold" FONTSIZE="100" CH="PDF Export"/>
+            <trail ALIGN="3"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.851503937009" YPOS="1154.00764729581" OwnPage="3" ItemID="886990633" PTYPE="16" WIDTH="833.385826771654" HEIGHT="133.063439318368" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="Rückseite" Rows="1" Columns="3" RowPositions="0" RowHeights="132.063" ColumnPositions="0 275.499 561.499" ColumnWidths="275.499 286 270.887" CellAreas="" TableStyle="" path="M0 0 L833.386 0 L833.386 133.063 L0 133.063 L0 0 Z" copath="M0 0 L833.386 0 L833.386 133.063 L0 133.063 L0 0 Z" gXpos="68.8521338582683" gYpos="7.70811973674866" gWidth="902.237" gHeight="141.732283464567" LAYER="0">
+            <TableData Style="" FillColor="None" FillShade="100">
+                <TableBorderLeft>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderLeft>
+                <TableBorderRight>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderRight>
+                <TableBorderTop>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderTop>
+                <TableBorderBottom>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderBottom>
+                <Cell Row="0" Column="0" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="&lt;- 10 cm -&gt;"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Rückseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+                <Cell Row="0" Column="1" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="&lt;- 10 cm -&gt;"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Rückseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+                <Cell Row="0" Column="2" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT FONT="Lato Bold" CH="&lt;- 9,7cm -&gt;"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Rückseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+            </TableData>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.851503937009" YPOS="984.889222098956" OwnPage="3" ItemID="886485801" PTYPE="16" WIDTH="833.385826771654" HEIGHT="133.063439318368" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="FrontSeite" Rows="1" Columns="3" RowPositions="0" RowHeights="132.063" ColumnPositions="0 275.499 561.499" ColumnWidths="275.499 286 270.887" CellAreas="" TableStyle="" path="M0 0 L833.386 0 L833.386 133.063 L0 133.063 L0 0 Z" copath="M0 0 L833.386 0 L833.386 133.063 L0 133.063 L0 0 Z" gXpos="68.8521338582683" gYpos="-161.4103054601" gWidth="902.237" gHeight="141.732283464567" LAYER="0">
+            <TableData Style="" FillColor="None" FillShade="100">
+                <TableBorderLeft>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderLeft>
+                <TableBorderRight>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderRight>
+                <TableBorderTop>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderTop>
+                <TableBorderBottom>
+                    <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                </TableBorderBottom>
+                <Cell Row="0" Column="0" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT FONT="Lato Bold" CH="&lt;- 9,7cm -&gt;"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Frontseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+                <Cell Row="0" Column="1" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="&lt;- 10 cm -&gt;"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Frontseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+                <Cell Row="0" Column="2" Style="" TextColumns="1" TextColGap="0" TextDistLeft="0" TextDistTop="0" TextDistBottom="0" TextDistRight="0" TextVertAlign="0" Flop="0" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+                    <TableBorderLeft Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderLeft>
+                    <TableBorderRight Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderRight>
+                    <TableBorderTop Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderTop>
+                    <TableBorderBottom Width="1">
+                        <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+                    </TableBorderBottom>
+                    <StoryText>
+                        <DefaultStyle/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="&lt;- 10 cm -&gt;"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   ^"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="Druckbereich"/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="10 cm"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   |"/>
+                        <para/>
+                        <ITEXT CH=" "/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <tab/>
+                        <ITEXT CH="   v"/>
+                        <para/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <tab FONT="Lato Bold"/>
+                        <ITEXT FONT="Lato Bold" CH="Frontseite"/>
+                        <trail/>
+                    </StoryText>
+                </Cell>
+            </TableData>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="277.954015748031" OwnPage="0" ItemID="886327593" PTYPE="4" WIDTH="269.291338582677" HEIGHT="10.0062992125984" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="ffm_Community_FußzeileMitteSeite1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" copath="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" gXpos="369.291968503937" gYpos="277.954015748031" gWidth="0" gHeight="0" LAYER="18" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="White" FSHADE="100" CH="Freifunk Frankfurt am Main e.V."/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="20.0012598425197" OwnPage="0" ItemID="885951785" PTYPE="4" WIDTH="269.291338582677" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="ffm_Community_Kontakt" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="13.5" LINESPMode="0" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" copath="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" gXpos="369.291968503937" gYpos="20.0012598425197" gWidth="0" gHeight="0" ALIGN="3" LAYER="18" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil2" FONTSIZE="14.3" CH="Kontakt"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100" CH="Webseite"/>
+            <tab CPARENT="margenta-Zeichenstil" FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100" CH="http://ffm.freifunk.net"/>
+            <para ALIGN="0"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Mail"/>
+            <tab FONTSIZE="10.5"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="info@wifi-frankfurt.de"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Mailingliste"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="user-subscribe@wifi-frankfurt.de"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Twitter"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="@FreiFunkFFM"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Treffen"/>
+            <ITEXT FONTSIZE="10.5" CH="        "/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Jeden ersten Mo. im Monat."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <tab FONTSIZE="10.5"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Und wo? Siehe unsere Webseite."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="410.394330708661" YPOS="144.15874015748" OwnPage="0" ItemID="885944617" PTYPE="2" WIDTH="187.795275590551" HEIGHT="131.828389568158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="ffm_Community_Logo" LOCALSCX="0.138475199126216" LOCALSCY="0.138475199126216" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logo-ffm.png" PRFILE="Display" EMBEDDED="0" path="M0 0 L187.795 0 L187.795 131.828 L0 131.828 L0 0 Z" copath="M0 0 L187.795 0 L187.795 131.828 L0 131.828 L0 0 Z" ImageRes="0" gXpos="9.63779527558836" gYpos="73.3705286839139" gWidth="253.009698333163" gHeight="219.790635834626" LAYER="18" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="638.583307086614" YPOS="20.0012598425197" OwnPage="0" ItemID="885612841" PTYPE="4" WIDTH="272.125984251969" HEIGHT="66.8558830146232" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="ffm_Community_Name" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTKERN="-3" ISIZE="57" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.126 0 L272.126 66.8559 L0 66.8559 L0 0 Z" copath="M0 0 L272.126 0 L272.126 66.8559 L0 66.8559 L0 0 Z" gXpos="-16.1574803149629" gYpos="-35.3294488188975" gWidth="291.40157480315" gHeight="264.457502812149" PSTYLE="Default Paragraph Style" LAYER="18" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="  "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH=" "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH="   "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH=" "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CPARENT="Titel_ersteSeite" FONT="AlternateGothic2 BT Regular" FONTSIZE="46" KERN="-3" CH="Freifunk Frankfurt"/>
+            <trail PARENT="mini Absatz"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="638.583307086614" YPOS="277.954015748031" OwnPage="0" ItemID="885607721" PTYPE="4" WIDTH="272.125984251969" HEIGHT="9.49606299212599" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Rechts01" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTFILL="Black" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.126 0 L272.126 9.49606 L0 9.49606 L0 0 Z" copath="M0 0 L272.126 0 L272.126 9.49606 L0 9.49606 L0 0 Z" gXpos="638.583307086614" gYpos="277.954015748031" gWidth="0" gHeight="0" LAYER="20" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" FONTSIZE="10.4" FCOLOR="White" FSHADE="100" CH="Freies Internet • Kostenlos • Für Alle • Ohne Risiko"/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="277.954015748031" OwnPage="0" ItemID="885602601" PTYPE="4" WIDTH="269.291338582677" HEIGHT="10.0062992125984" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Links01" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" copath="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" gXpos="100.00062992126" gYpos="277.954015748031" gWidth="0" gHeight="0" LAYER="20" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" FONTSIZE="10.4" FCOLOR="White" FSHADE="100" CH=" "/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="687.48094488189" YPOS="88.7941863131984" OwnPage="0" ItemID="885096233" PTYPE="12" WIDTH="175.03937007874" HEIGHT="126.617372435363" FRTYPE="0" CLIPEDIT="0" ANNAME="Logo_Freifunk" groupWidth="113.30836429659" groupHeight="81.5739743494535" groupClips="1" path="M0 0 L175.039 0 L175.039 126.617 L0 126.617 L0 0 Z" copath="M0 0 L175.039 0 L175.039 126.617 L0 126.617 L0 0 Z" gXpos="-16.6247496740815" gYpos="-8.10344856424902" gWidth="136" gHeight="132" LAYER="4">
+            <PAGEOBJECT XPOS="688.164576883754" YPOS="116.436284367925" OwnPage="0" ItemID="885091113" PTYPE="6" WIDTH="52.0120832" HEIGHT="53.02903232" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.36726400372704" PCOLOR2="Freifunk Magenta" PLINEART="1" ANNAME="circle10" path="M52.0121 26.5145 C52.0121 41.1586 40.3693 53.029 26.006 53.029 C11.6433 53.029 0 41.1586 0 26.5145 C0 11.871 11.6433 0 26.006 0 C40.3693 0 52.0121 11.871 52.0121 26.5145 Z" copath="M44 22 C44 34.1507 34.1507 44 22 44 C9.84974 44 0 34.1507 0 22 C0 9.84974 9.84974 0 22 0 C34.1507 0 44 9.84974 44 22 Z" gXpos="0.683632001863515" gYpos="27.6420980547267" gWidth="113.30836429659" gHeight="81.5739743494535" LAYER="4"/>
+            <PAGEOBJECT XPOS="732.409248243753" YPOS="101.028389167925" OwnPage="0" ItemID="885085993" PTYPE="6" WIDTH="56.14567552" HEIGHT="57.10585408" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.36724912889504" PCOLOR2="Freifunk Magenta" PLINEART="1" ANNAME="circle12" path="M56.1457 28.5529 C56.1457 44.3228 43.5776 57.1059 28.0728 57.1059 C12.5686 57.1059 0 44.3228 0 28.5529 C0 12.7836 12.5686 0 28.0728 0 C43.5776 0 56.1457 12.7836 56.1457 28.5529 Z" copath="M44 22 C44 34.1507 34.1507 44 22 44 C9.84974 44 0 34.1507 0 22 C0 9.84974 9.84974 0 22 0 C34.1507 0 44 9.84974 44 22 Z" gXpos="44.9283033618635" gYpos="12.2342028547267" gWidth="113.30836429659" gHeight="81.5739743494535" LAYER="4"/>
+            <PAGEOBJECT XPOS="723.633776963753" YPOS="92.4926303679251" OwnPage="0" ItemID="886819625" PTYPE="6" WIDTH="73.45708816" HEIGHT="74.17708624" FRTYPE="3" CLIPEDIT="1" PWIDTH="7.39688810945346" PCOLOR2="Freifunk Magenta" PLINEART="1" ANNAME="circle14" path="M73.4571 37.0885 C73.4571 57.5727 57.0139 74.1771 36.7285 74.1771 C16.4439 74.1771 0 57.5727 0 37.0885 C0 16.6051 16.4439 0 36.7285 0 C57.0139 0 73.4571 16.6051 73.4571 37.0885 Z" copath="M58 29 C58 45.0168 45.0168 58 29 58 C12.9837 58 0 45.0168 0 29 C0 12.9837 12.9837 0 29 0 C45.0168 0 58 12.9837 58 29 Z" gXpos="36.1528320818635" gYpos="3.69844405472673" gWidth="113.30836429659" gHeight="81.5739743494535" LAYER="4"/>
+            <PAGEOBJECT XPOS="697.461715123753" YPOS="130.178848207925" OwnPage="0" ItemID="886814505" PTYPE="6" WIDTH="17.3924088" HEIGHT="13.18846848" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.12926648" PCOLOR="Freifunk Honiggelb" PLINEART="1" ANNAME="polygon16" TEXTFLOWMODE="1" path="M10.4354 0 L4.63798 0 L9.27595 4.39616 L0 4.39616 L0 8.79231 L9.27595 8.79231 L4.63798 13.1885 L10.4354 13.1885 L17.3924 6.59423 L10.4354 0 Z" copath="M10.4354 0 L4.63798 0 L9.27595 4.39616 L0 4.39616 L0 8.79231 L9.27595 8.79231 L4.63798 13.1885 L10.4354 13.1885 L17.3924 6.59423 L10.4354 0 Z" fillRule="0" gXpos="9.98077024186351" gYpos="41.3846618947267" gWidth="113.30836429659" gHeight="81.5739743494535" LAYER="4"/>
+            <PAGEOBJECT XPOS="747.507373523753" YPOS="125.491582287925" OwnPage="0" ItemID="885845289" PTYPE="6" WIDTH="29.10642816" HEIGHT="22.5925344" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.23395432" PCOLOR="Freifunk Honiggelb" PLINEART="1" ANNAME="polygon18" TEXTFLOWMODE="1" path="M20.6171 22.5925 L13.3404 15.0617 L29.1064 15.0617 L29.1064 7.53084 L13.3404 7.53084 L20.6171 0 L10.9149 0 L0 11.2963 L10.9149 22.5925 L20.6171 22.5925 Z" copath="M20.6171 22.5925 L13.3404 15.0617 L29.1064 15.0617 L29.1064 7.53084 L13.3404 7.53084 L20.6171 0 L10.9149 0 L0 11.2963 L10.9149 22.5925 L20.6171 22.5925 Z" fillRule="0" gXpos="60.0264286418635" gYpos="36.6973959747267" gWidth="113.30836429659" gHeight="81.5739743494535" LAYER="4"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="638.583307086614" YPOS="229.765039370079" OwnPage="0" ItemID="885842217" PTYPE="4" WIDTH="272.125984251969" HEIGHT="38.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.999999999999991" PLINEART="1" ANNAME="DigitalesBürgernetz" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="10" LINESPMode="0" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.126 0 L272.126 38.5 L0 38.5 L0 0 Z" copath="M0 0 L272.126 0 L272.126 38.5 L0 38.5 L0 0 Z" gXpos="-70.8661417322848" gYpos="77.2886082127713" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Bold" FONTSIZE="16.1" CH="Das digitale Bürgernetz"/>
+            <para ALIGN="1" LINESPMode="0" LINESP="10"/>
+            <para PARENT="mini Absatz" LINESPMode="0" LINESP="10"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="16.1" CH="mit freiem Zugang"/>
+            <trail ALIGN="1" LINESPMode="0" LINESP="10"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="638.583307086614" YPOS="33.4374803149606" OwnPage="0" ItemID="885837097" PTYPE="5" WIDTH="242.395711964744" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="-270" PWIDTH="1" PCOLOR="FromSVG#a6a6a6" PCOLOR2="FromSVG#a6a6a6" SHADE2="40" PLINEART="7" ANNAME="VorderseiteRechts" path="" gXpos="638.583307086614" gYpos="33.4374803149606" gWidth="0" gHeight="0" LAYER="12"/>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="33.4374803149606" OwnPage="0" ItemID="885834025" PTYPE="5" WIDTH="242.401372119019" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="-270" PWIDTH="1" PCOLOR="FromSVG#a6a6a6" PCOLOR2="FromSVG#a6a6a6" SHADE2="40" PLINEART="7" ANNAME="VorderseiteLinks" path="" gXpos="369.291968503937" gYpos="33.4374803149606" gWidth="0" gHeight="0" LAYER="12"/>
+        <PAGEOBJECT XPOS="641.417952755906" YPOS="342.728503937008" OwnPage="1" ItemID="886461225" PTYPE="5" WIDTH="242.40261095419" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="-270" PWIDTH="1" PCOLOR="FromSVG#a6a6a6" PCOLOR2="FromSVG#a6a6a6" SHADE2="40" PLINEART="7" ANNAME="RückseiteRechts" path="" gXpos="641.417952755906" gYpos="24.9335433070867" gWidth="0" gHeight="0" LAYER="12"/>
+        <PAGEOBJECT XPOS="372.126614173228" YPOS="342.728503937008" OwnPage="1" ItemID="886456105" PTYPE="5" WIDTH="242.399874403677" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="-270" PWIDTH="1" PCOLOR="FromSVG#a6a6a6" PCOLOR2="FromSVG#a6a6a6" SHADE2="40" PLINEART="7" ANNAME="RückseiteLinks" path="" gXpos="372.126614173228" gYpos="24.9335433070867" gWidth="0" gHeight="0" LAYER="12"/>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="280.788661417323" OwnPage="0" ItemID="886448937" PTYPE="4" WIDTH="269.291338582677" HEIGHT="5.80582677165353" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Version" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" IFONT="Lato Bold" ISIZE="5" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 5.80583 L0 5.80583 L0 0 Z" copath="M0 0 L269.291 0 L269.291 5.80583 L0 5.80583 L0 0 Z" gXpos="369.291968503937" gYpos="280.788661417323" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Bold" FONTSIZE="6" CH="2015.09.29"/>
+            <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="277.954015748031" OwnPage="0" ItemID="885788969" PTYPE="4" WIDTH="269.291338582677" HEIGHT="10.0062992125984" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Community_FußzeileMitteSeite1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" copath="M0 0 L269.291 0 L269.291 10.0063 L0 10.0063 L0 0 Z" gXpos="369.291968503937" gYpos="277.954015748031" gWidth="0" gHeight="0" LAYER="21" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="White" FSHADE="100" CH="Freifunk Duckburg e.V."/>
+            <trail ALIGN="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="369.291968503937" YPOS="20.0012598425197" OwnPage="0" ItemID="884924201" PTYPE="4" WIDTH="269.291338582677" HEIGHT="269.291338582677" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Community_Kontakt" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESP="13.5" LINESPMode="0" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" copath="M0 0 L269.291 0 L269.291 269.291 L0 269.291 L0 0 Z" gXpos="369.291968503937" gYpos="20.0012598425197" gWidth="0" gHeight="0" ALIGN="3" LAYER="21" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="headline-Zeichenstil2" FONTSIZE="14.3" CH="Kontakt"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100" CH="Webseite"/>
+            <tab CPARENT="margenta-Zeichenstil" FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" FONT="Lato Regular" FONTSIZE="10.5" FCOLOR="Black" FSHADE="100" CH="http://ffdb.freifunk."/>
+            <ITEXT FONTSIZE="10.5" CH="net"/>
+            <para ALIGN="0"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Mail"/>
+            <tab FONTSIZE="10.5"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="info@ff-duckburg.ffdb"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Mailingliste"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="subscribe@ff-duckburg.ffdb"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Twitter"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="@FreiFunkDB"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <ITEXT FONT="Lato Bold" FONTSIZE="10.5" CH="Treffen"/>
+            <ITEXT FONTSIZE="10.5" CH="        "/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Jeden zweiten Montag"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+            <tab FONTSIZE="10.5"/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Und wo? Siehe unsere Webseite."/>
+            <para ALIGN="3" LINESPMode="0" LINESP="13.5" OpticalMargins="14"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="410.394330708661" YPOS="145.576062992126" OwnPage="0" ItemID="885912873" PTYPE="2" WIDTH="187.525669291339" HEIGHT="130.469127011297" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Community_Logo" LOCALSCX="0.135888166153144" LOCALSCY="0.135888166153144" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logo-template.png" PRFILE="Display" EMBEDDED="0" path="M0 0 L187.526 0 L187.526 130.469 L0 130.469 L0 0 Z" copath="M0 0 L187.526 0 L187.526 130.469 L0 130.469 L0 0 Z" ImageRes="0" gXpos="9.63779527558836" gYpos="74.7878515185602" gWidth="253.009698333163" gHeight="219.790635834626" LAYER="21" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="638.583307086614" YPOS="20.0012598425197" OwnPage="0" ItemID="884803369" PTYPE="4" WIDTH="272.125984251969" HEIGHT="66.8558830146232" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Community_Name" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" TXTKERN="-3" ISIZE="57" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="13.4645669291339" TEXTRA="19.8425196850394" BEXTRA="0" REXTRA="13.4645669291339" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.126 0 L272.126 66.8559 L0 66.8559 L0 0 Z" copath="M0 0 L272.126 0 L272.126 66.8559 L0 66.8559 L0 0 Z" gXpos="-16.1574803149629" gYpos="-35.3294488188975" gWidth="291.40157480315" gHeight="264.457502812149" PSTYLE="Default Paragraph Style" LAYER="21" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="  "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH=" "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH="   "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CH=" "/>
+            <para PARENT="mini Absatz"/>
+            <ITEXT CPARENT="Titel_ersteSeite" FONT="AlternateGothic2 BT Regular" FONTSIZE="46" KERN="-4" CH="Freifunk Duckburg"/>
+            <trail PARENT="mini Absatz"/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
