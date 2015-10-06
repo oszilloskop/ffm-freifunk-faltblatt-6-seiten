@@ -19,6 +19,7 @@ Texte und Grafiken wurde derart überarbeitet, dass unbedarfte DAUs (ohne jeglic
 # Anpassung an eure Community per PHP-Skript
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
+Voraussetzung ist, dass PHP auf eurem System installiertet ist.
 
 Im ordner './lokalisierung' befindet sich das Skript 'flyermod.php'.  
 Hier einfach die Inhalte folgende Variablen an eure Community anpassen:
