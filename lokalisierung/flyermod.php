@@ -63,8 +63,8 @@ function FlyerRendering ($inputFile, $outputPostfix, $anschnitt)
 
     // Logo auf Kontaktseite
     $kontaktLogoDateiName = "logo-template.png";
-    $kontaktLogoWidth=66.25;    //in mm  // Muss kleiner 98.0 mm sein! Hier bitte die Breite des Lo$
-    $kontaktLogoPositionY=47.0; //in mm  // Die Hoeheneinstellung ist etwas frickelig. Es klappt ab$
+    $kontaktLogoWidth=66.25;    //in mm  // Muss kleiner 98.0 mm sein! Hier bitte die gewuenschte Breite des Logos auf dem Flyer eintragen. 
+    $kontaktLogoPositionY=47.0; //in mm  // Die Hoeheneinstellung ist etwas frickelig. Es klappt aber :-)
 
     // Texte fuer Seite mit Kontaktdaten
     $kontaktTitelText = "Kontakt";
