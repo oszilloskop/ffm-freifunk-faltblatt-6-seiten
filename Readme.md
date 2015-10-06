@@ -23,24 +23,25 @@ Dieses Faltblatt wurde für die Community Frankfurt erstellt.
 Im ordner './lokalisierung' befindet sich das Skript 'flyermod.php'.  
 Hier einfach die Inhalte folgende Variablen an eure Community anpassen:
 
-$communityNameText  
-$kontaktTitelText  
-$kontaktInfoTexte  
-$kontaktFusszeileText  
-$kontaktLogoDateiName  
-$kontaktLogoWidth  
-$kontaktLogoPositionY  
-ggf. $communityNameFontSize  
+    $communityNameText  
+    $kontaktTitelText  
+    $kontaktInfoTexte  
+    $kontaktFusszeileText  
+    $kontaktLogoDateiName  
+    $kontaktLogoWidth  
+    $kontaktLogoPositionY  
+    ggf. $communityNameFontSize  
 Die Skript-Kommentare sollten Euch eigentlich helfen (hoffentlich :o)
 
 Dann direkt im Verzeichnis das Skript aufrufen mit:
 
-php -f flyermod.php  
+    php -f flyermod.php
+
 Folgende Dateien sollten dann erzeugt werden:
 
-lokalisiert-faltblatt_6_seiten_9.8x9.8_ohne_anschnitt.pdf
-lokalisiert-faltblatt_6_seiten_9.8x9.8_1mm_anschnitt.pdf
-lokalisiert-faltblatt_6_seiten_9.8x9.8_2mm_anschnitt.pdf 
+    lokalisiert-faltblatt_6_seiten_9.8x9.8_ohne_anschnitt.pdf
+    lokalisiert-faltblatt_6_seiten_9.8x9.8_1mm_anschnitt.pdf
+    lokalisiert-faltblatt_6_seiten_9.8x9.8_2mm_anschnitt.pdf 
 
 Ggf. können mit "Gimp" oder z.B. dem Kommando "convert" (ImageMagick) die erzeugten PDFs in Grafiken umwandelt werden.
 
