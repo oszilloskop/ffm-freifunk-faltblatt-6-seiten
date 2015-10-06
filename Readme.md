@@ -1,4 +1,4 @@
-# Freifunk Faltblatt-6-Seiten - Wickelfalz, Bund links
+# Freifunk 6 Seiten Faltblatt/Flyer - Wickelfalz, Bund links
 
 Geschlossen 9,8 x 9,8 cm  
 Offen: 29,4 x 9,8 cm (ohne Anschnitt)  
@@ -15,7 +15,7 @@ Anschnitt bis zu 2mm links/rechts/oben/unten vorbereitet
 
 # Motivation
 Das Design wurde neu Aufgesetzt.
-Texte und Grafiken wurde derart überarbeitet, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden.  
+Texte und Grafiken wurde derart überarbeitet, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. Lust auf Freifunk bekommen.  
 # Anpassung an eure Community per PHP-Skript
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
