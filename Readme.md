@@ -17,29 +17,19 @@ Anschnitt ist vorbereitet bis zu 2mm links/rechts/oben/unten
 # Motivation
 Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch keine Lust auf Freifunk bekommen.  
 
-# Anpassung an eure Community per PHP-Skript
+# Anpassung an eure Community
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
 Voraussetzung ist, dass PHP auf eurem System installiertet ist.
 
-Im ordner './lokalisierung' befindet sich das Skript 'flyermod.php'.  
-Hier könnt Ihr die Inhalte folgende Variablen an eure Community anpassen:
+Im ordner './faltblatt-6-seiten_9.8x9.8cm' befindet sich das die Datei 'config.php'.  
+Hier könnt Ihr die Inhalte der Variablen an eure Community anpassen; Die Skript-Kommentare sollten Euch eigentlich helfen (hoffentlich :o)
 
-    $communityNameText  
-    $kontaktTitelText  
-    $kontaktInfoTexte  
-    $kontaktFusszeileText  
-    $kontaktLogoDateiName  
-    $kontaktLogoWidth  
-    $kontaktLogoPositionY  
-    ggf. $communityNameFontSize  
-Die Skript-Kommentare sollten Euch eigentlich helfen (hoffentlich :o)
+Dann direkt im Verzeichnis das PHP-Skript aufrufen mit:
 
-Dann direkt im Verzeichnis das Skript aufrufen mit:
+    php -f ../lokalisierung/flyermod.php
 
-    php -f flyermod.php
-
-Folgende Dateien sollten dann erzeugt werden:
+Folgende Dateien sollten dann im out-Ordner erzeugt werden:
 
     lokalisiert-faltblatt_6_seiten_9.8x9.8_ohne_anschnitt.pdf
     lokalisiert-faltblatt_6_seiten_9.8x9.8_1mm_anschnitt.pdf

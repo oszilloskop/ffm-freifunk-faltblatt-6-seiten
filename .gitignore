@@ -11,8 +11,7 @@
 Thumbs.db
 
 /.idea/
-
-lokalisierung/lokalisiert-*
+/out/*
 
 # except the following files
 !.git*
