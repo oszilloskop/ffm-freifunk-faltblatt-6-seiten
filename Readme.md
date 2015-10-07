@@ -1,17 +1,18 @@
-# Freifunk 6 Seiten Faltblatt/Flyer - Wickelfalz, Bund links
+# 6 Seiten Freifunk Faltblatt/Flyer - Wickelfalz, Bund links
+Leicht individualisierbar  
 
-Geschlossen 9,8 x 9,8 cm  
+Geschlossen: 9,8 x 9,8 cm  
 Offen: 29,4 x 9,8 cm (ohne Anschnitt)  
 
 Unsymmetrie (passend für Flyeralarm) wegen Wickelfalz - Bund links   
 Dokumentseite 1: | 9,7 cm | 9,8cm | 9,9 cm |  
 Dokumentseite 2: |9,9 cm | 9,8 cm | 9,7 cm |  
-Anschnitt bis zu 2mm links/rechts/oben/unten vorbereitet
+Anschnitt ist vorbereitet bis zu 2mm links/rechts/oben/unten
 
 
 ![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10319322/fc054e4e-6c6d-11e5-9439-492a63543a06.png)
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10321642/1c286394-6c7a-11e5-91e5-1a253ab4c076.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10327681/cd114772-6caa-11e5-8edf-8d73dde5c037.png)
 
 # Motivation
 Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch Lust auf Freifunk bekommen.  
