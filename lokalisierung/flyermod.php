@@ -165,7 +165,7 @@ function FlyerRendering ($inputFile, $outputPostfix, $anschnitt)
     $pdf->SetFontSize($kontaktTitelFontSize);
     $pdf->SetTextColor(0,0,0); //schwarz
     $pdf->SetXY($kontaktTitelPositionX + $anschnitt, $kontaktTitelPositionY + $anschnitt);
-    $pdf->Write(0,$kontaktTitelText);
+    $pdf->Write(0,iconv('UTF-8', 'windows-1252',$kontaktTitelText));
 
     // Rendern Info Text
     echo "Verarbeite Info Text...\n";
@@ -174,10 +174,10 @@ function FlyerRendering ($inputFile, $outputPostfix, $anschnitt)
     foreach ($kontaktInfoTexte as $a) {
         	$pdf->SetFont('lato-bold');
         	$pdf->SetXY($kontaktTitelPositionX + $anschnitt, $kontaktInfoPositionY + $anschnitt);
-        	$pdf->Write(0,$a[0]);
+        	$pdf->Write(0,iconv('UTF-8', 'windows-1252',$a[0]));
         	$pdf->SetFont('lato-regular');
         	$pdf->SetXY($kontaktInfoTextPositionX + $anschnitt, $kontaktInfoPositionY +$anschnitt);
-        	$pdf->Write(0,$a[1]);
+        	$pdf->Write(0,iconv('UTF-8', 'windows-1252',$a[1]));
         	$kontaktInfoPositionY=$kontaktInfoPositionY + $kontaktInfoZeilenOffsetY;
     }
 
@@ -191,7 +191,7 @@ function FlyerRendering ($inputFile, $outputPostfix, $anschnitt)
     $pdf->SetFontSize($kontaktFooterFontSize);
     $pdf->SetTextColor(255,255,255); //weiss
     $pdf->SetXY($kontaktFooterPositionX + $anschnitt, $kontaktFooterPositionY + $anschnitt);
-    $pdf->Cell($kontaktFooterWidth,0,$kontaktFusszeileText,0,0,'C');
+    $pdf->Cell($kontaktFooterWidth,0,iconv('UTF-8', 'windows-1252',$kontaktFusszeileText),0,0,'C');
 
     // Rendern Community Name
     echo "Verarbeite Community Name...\n";
@@ -199,7 +199,7 @@ function FlyerRendering ($inputFile, $outputPostfix, $anschnitt)
     $pdf->SetFontSize($communityNameFontSize);
     $pdf->SetTextColor(0,0,0); //schwarz
     $pdf->SetXY($communityNamePositionX + $anschnitt, $communityNamePositionY + $anschnitt);
-    $pdf->MultiCell($wRechts, 10, $communityNameText,0,'C');
+    $pdf->MultiCell($wRechts, 10, iconv('UTF-8', 'windows-1252',$communityNameText),0,'C');
 
     // Das war's mit dem Editieren
 
