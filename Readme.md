@@ -10,9 +10,9 @@ Dokumentseite 2: |9,9 cm | 9,8 cm | 9,7 cm |
 Anschnitt ist vorbereitet bis zu 2mm links/rechts/oben/unten
 
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10319322/fc054e4e-6c6d-11e5-9439-492a63543a06.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10337989/bc6b6d54-6d03-11e5-84d8-499caf4eac4a.png)
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10327681/cd114772-6caa-11e5-8edf-8d73dde5c037.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10337996/c4178826-6d03-11e5-8abb-d188a904d11b.png)
 
 # Motivation
 Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch Lust auf Freifunk bekommen.  
