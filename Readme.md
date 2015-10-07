@@ -10,19 +10,20 @@ Dokumentseite 2: |9,9 cm | 9,8 cm | 9,7 cm |
 Anschnitt ist vorbereitet bis zu 2mm links/rechts/oben/unten
 
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10337989/bc6b6d54-6d03-11e5-84d8-499caf4eac4a.png)
+![Flyer Außenseite](https://cloud.githubusercontent.com/assets/1434390/10337989/bc6b6d54-6d03-11e5-84d8-499caf4eac4a.png)
 
-![enter image description here](https://cloud.githubusercontent.com/assets/1434390/10337996/c4178826-6d03-11e5-8abb-d188a904d11b.png)
+![Flyer Innenseite](https://cloud.githubusercontent.com/assets/1434390/10337996/c4178826-6d03-11e5-8abb-d188a904d11b.png)
 
 # Motivation
-Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch Lust auf Freifunk bekommen.  
+Texte und Grafiken wurde derart erstellt, dass unbedarfte DAUs (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden, und dann evtl. doch keine Lust auf Freifunk bekommen.  
+
 # Anpassung an eure Community per PHP-Skript
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
 Voraussetzung ist, dass PHP auf eurem System installiertet ist.
 
 Im ordner './lokalisierung' befindet sich das Skript 'flyermod.php'.  
-Hier einfach die Inhalte folgende Variablen an eure Community anpassen:
+Hier könnt Ihr die Inhalte folgende Variablen an eure Community anpassen:
 
     $communityNameText  
     $kontaktTitelText  
