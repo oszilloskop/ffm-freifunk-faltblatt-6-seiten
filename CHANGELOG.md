@@ -1,3 +1,5 @@
+V1.3  
+New - Separate Konfigurationsdatei hinzugefügt  
 
 V1.2  
 Fix - Rechtschreibfehler korrigiert  
