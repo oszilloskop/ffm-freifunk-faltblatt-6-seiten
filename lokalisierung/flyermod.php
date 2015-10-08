@@ -172,8 +172,8 @@ function FlyerRendering($config, $inputFile, $outputPath, $outputPostfix, $ansch
     $Vorderseite_2 = $pdf_2->ImportPage(1);
     $Rueckseite_2 = $pdf_2->ImportPage(2);
     $pdf_2->AddPage('L', array($dokumentBreite, $dokumentHoehe));
-    $tplForderseite = $pdf_2->importPage(1);
-    $pdf_2->useTemplate($tplForderseite);
+    $tplVorderseite = $pdf_2->importPage(1);
+    $pdf_2->useTemplate($tplVorderseite);
     $pdf_2->AddPage('L', array($dokumentBreite, $dokumentHoehe));
     $tplRueckseite = $pdf_2->importPage(2);
     $pdf_2->useTemplate($tplRueckseite);
