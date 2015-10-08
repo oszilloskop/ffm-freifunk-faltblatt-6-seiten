@@ -16,7 +16,7 @@ Anschnitt ist vorbereitet auf bis zu 2mm links/rechts/oben/unten
 ![Flyer Innenseite](https://cloud.githubusercontent.com/assets/1434390/10337996/c4178826-6d03-11e5-8abb-d188a904d11b.png)
 
 # Motivation
-Texte und Grafiken wurde derart erstellt, dass unbedarfte Laien (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden. Durch die benutzte positive Ansprache finden sie vielleicht eher Spaß an Freifunk.  
+Texte und Grafiken wurden derart erstellt, dass unbedarfte Laien (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden. Durch die benutzte, positive Ansprache findet der Leser vielleicht eher Spaß an Freifunk.  
 
 # Anpassung an eure Community per Skript
 Dieses Faltblatt wurde für die Community Frankfurt erstellt.  
