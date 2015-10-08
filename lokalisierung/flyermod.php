@@ -6,7 +6,7 @@
 $path = getcwd() . DIRECTORY_SEPARATOR;
 $scriptPath = __DIR__ . DIRECTORY_SEPARATOR;
 $configFile = $path . 'config.php';
-$outputPath = implode(DIRECTORY_SEPARATOR, [$scriptPath, '..', 'out']);
+$outputPath = implode(DIRECTORY_SEPARATOR, [$scriptPath]);
 
 if (!file_exists($configFile)) {
     $configFile = $scriptPath . 'config.php';
