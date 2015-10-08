@@ -23,7 +23,7 @@ return [
     // Logo-Grafik auf Kontaktseite
     'kontaktLogoDateiName'         => 'logo-template.png',
 
-    // Groesse des Logos auf dem Flyer in mm (Muss kleiner 98.0 mm sein!)
+    // Breite des Logos auf dem Flyer in mm (Muss kleiner 98.0 mm sein!)
     'kontaktLogoWidth'             => 66.25,
     //Die Logo-Hoeheneinstellung (in mm) ist etwas frickelig. Es klappt aber :-)
     'kontaktLogoPositionY'         => 47.0,
