@@ -1,3 +1,6 @@
+V1.4  
+FF-Frankfurt tritt sich jetzt alle 2 Wochen  
+
 V1.3  
 New - Separate Konfigurationsdatei hinzugefügt  
 
