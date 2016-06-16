@@ -56,5 +56,6 @@ return [
     'templates'                    => [
         'faltblatt_6_seiten_9.8x9.8_ohne_anschnitt.pdf' => 0.0,
         'faltblatt_6_seiten_9.8x9.8_1mm_anschnitt.pdf'  => 1.0,
+        'faltblatt_6_seiten_9.8x9.8_2mm_anschnitt.pdf'  => 2.0,
     ],
 ];

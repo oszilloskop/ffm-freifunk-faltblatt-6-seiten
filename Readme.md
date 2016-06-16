@@ -34,8 +34,13 @@ Folgende Dateien werden dann im gleichen Ordner erzeugt:
 
     lokalisiert-faltblatt_6_seiten_9.8x9.8_ohne_anschnitt.pdf
     lokalisiert-faltblatt_6_seiten_9.8x9.8_1mm_anschnitt.pdf
+    lokalisiert-faltblatt_6_seiten_9.8x9.8_2mm_anschnitt.pdf
 
 Ggf. können mit "Gimp" oder z.B. dem Kommando "convert" (ImageMagick) die erzeugten PDFs in Grafiken umgewandelt werden.
+
+**Anmerkung Flyeralarm:**<br>
+Bei der Version mit 2mm Anschnitt gibt es systembedingt, durch die verwendete PHP-Library, auf der ersten Seite rechts einen dünnen weissen Rand. Dieser ist aber im Anschnitt und sollte keine Probleme bereiten.
+
 
 # Anpassung mit Scribus 1.5.x  
 Dieses Faltblatt wurde mit **[Scribus](http://www.scribus.net/) 1.5** erstellt (hier OS X 1.5.0).
