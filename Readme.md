@@ -1,6 +1,5 @@
 
-#Freifunk Faltblatt/Flyer
-#6 Seiten, Wickelfalz, Bund links
+#Freifunk Faltblatt/Flyer<br>6 Seiten, Wickelfalz, Bund links
 Leicht individualisierbar  
 
 Geschlossen: 9,8 x 9,8 cm  
