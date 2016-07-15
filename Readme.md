@@ -23,7 +23,7 @@ Dieses Faltblatt wurde für die Community Frankfurt erstellt.
 **Das Faltblatt kann jedoch mittels eines beiliegenden PHP-Scripts sehr leicht an jede Community angepasst werden.**  
 Voraussetzung ist, dass PHP auf eurem System installiertet ist. (Erfolgreich getestet unter OS X 10.10.x, Debian 7.x, Ubuntu 15.04 )  
 
-Wechselt einfach in das Verzeichnis, in welches Ihr das Flyer-Projekt kopiert habt und dann in das Verzeichnis 'lokaliserung'.  Dort befindet sich die Datei '**config.php**'.  
+Wechselt einfach in das Verzeichnis, in welches Ihr das Flyer-Projekt kopiert habt und dann in das Verzeichnis 'lokaliserung'.  Dort befindet sich die Datei '**[config.php](https://github.com/oszilloskop/ffm-freifunk-faltblatt-6-seiten/blob/master/lokalisierung/config.php)**'.  
 Macht bitte in dieser Datei eure Anpassungen für eure Community. Die Skript-Kommentare sollten Euch eigentlich helfen (hoffentlich :o)
 
 Dann direkt im aktuellen Verzeichnis das Community-Anpassungs-Skript mit folgendem Befehl ausführen lassen:
