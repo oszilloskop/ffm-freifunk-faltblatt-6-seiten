@@ -11,9 +11,9 @@ Dokumentseite 2: | 9,9 cm | 9,8 cm | 9,7 cm |
 Anschnitt ist vorbereitet auf bis zu 2mm links/rechts/oben/unten
 
 
-![Flyer Außenseite](https://cloud.githubusercontent.com/assets/1434390/10337989/bc6b6d54-6d03-11e5-84d8-499caf4eac4a.png)
+![Flyer Außenseite](https://user-images.githubusercontent.com/1434390/39678066-11261060-5186-11e8-9e85-1169e9b96233.png)
 
-![Flyer Innenseite](https://cloud.githubusercontent.com/assets/1434390/10337996/c4178826-6d03-11e5-8abb-d188a904d11b.png)
+![Flyer Innenseite](https://user-images.githubusercontent.com/1434390/39678068-1a8ff710-5186-11e8-99e2-e73165737518.png)
 
 # Motivation
 Texte und Grafiken wurden derart erstellt, dass unbedarfte Laien (ohne jegliche Freifunk Kenntnis) nicht mit negativ vorbelasteten Begriffen konfrontiert werden. Durch die benutzte, positive Ansprache findet der Leser vielleicht eher Spaß an Freifunk.  
