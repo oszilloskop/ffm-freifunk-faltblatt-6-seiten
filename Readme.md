@@ -11,7 +11,7 @@ Dokumentseite 2: | 9,9 cm | 9,8 cm | 9,7 cm |
 Anschnitt ist vorbereitet auf bis zu 2mm links/rechts/oben/unten
 
 
-![Flyer Außenseite](https://user-images.githubusercontent.com/1434390/44003688-2d0ac21c-9e57-11e8-889a-13c53bdaa5c9.png)
+![Flyer Außenseite](https://user-images.githubusercontent.com/1434390/44003785-f1d313dc-9e58-11e8-9124-2b032f4c5967.png)
 
 ![Flyer Innenseite](https://user-images.githubusercontent.com/1434390/44003691-2f48e496-9e57-11e8-89df-2e1592b07597.png)
 
